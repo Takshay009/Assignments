@@ -155,6 +155,30 @@ int main()
     // return 0;
 
 
+                                        //  or
+
+
+    // char a;
+    // printf("Enter a char: ");
+    // scanf("%c",&a);
+
+    // if(a >= 'a' && a <= 'z')
+    // {
+    //     printf("char is lower case");
+    // }
+    // else if(a >= 'A' && a <= 'Z')
+    // {
+    //     printf("char is upper case");
+    // }
+    // else if(a >= '0' && a <= '9')
+    // {
+    //     printf("char is number");
+    // }
+    // else{
+    //     printf("char is special");
+    //  }
+
+
 
 
     // 9...
